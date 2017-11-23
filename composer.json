@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "NellRobinson/huzfriv",
+    "description": "huzfriv Framework.",
+    "keywords": ["framework", "huzfriv"],
     "license": "MIT",
     "type": "project",
     "require": {
